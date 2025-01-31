@@ -8,6 +8,3 @@ Os resultados mostram que os modelos ensemble, particularmente o **XGBoost**, s�
 
 **Palavras-chave**: gestão de receita, aprendizado de máquina, precificação dinâmica, companhias aéreas.
 
-## Em Breve
-
-O trabalho completo estará disponível após a defesa oficial e as revisões finais.
